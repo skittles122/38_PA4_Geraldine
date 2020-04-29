@@ -5,3 +5,12 @@ prorammer or team of programmers, which is tested in isolation
 from the more complete system.
 2. Unit testing is done by developer
 3. Whitebox
+
+
+Integration Testing 
+1. Integration testing is the combined execution of two or more classes,
+packages, components, or subsystems that have been created by multiple
+programmers or programming teams. This kind of testing typically starts as soon
+as there are two classes to test and continues until the entire system is complete.
+2. Integration testing is done by tester
+3. It maybe fall under black and white box testing
