@@ -14,3 +14,14 @@ programmers or programming teams. This kind of testing typically starts as soon
 as there are two classes to test and continues until the entire system is complete.
 2. Integration testing is done by tester
 3. It maybe fall under black and white box testing
+
+System Testing
+1. System testing is the execution of the software in its final configuration
+2. System testing is conducted by the system
+3. System testing is whitebox testing
+
+Acceptance Testing
+1. The acceptance testing plan is created during the design phase and the actual testing is
+done after the system is fully developed and tested
+2. Acceptance testing is conducted by end-users who will buy the game are involved in the testing
+3. Acceptance testing can be both whitebox testing and blackbox testing
