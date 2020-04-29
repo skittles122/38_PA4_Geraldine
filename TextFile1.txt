@@ -1,0 +1,7 @@
+Unit Testing
+1. Unit testing is the execution of a complete class,
+routine or small program that has been written by a single
+prorammer or team of programmers, which is tested in isolation
+from the more complete system.
+2. Unit testing is done by developer
+3. Whitebox
